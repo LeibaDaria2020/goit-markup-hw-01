@@ -1,2 +1,2 @@
 # goit-markup-hw-01
-Репозиторий HW-01
+repository-hw-01
